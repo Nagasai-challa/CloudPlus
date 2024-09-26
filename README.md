@@ -23,5 +23,5 @@ This is a simple weather application developed using **HTML**, **Tailwind CSS**,
    ```bash
    git clone https://github.com/your-username/weather-app.git
 #outputs
-!(images/weather1.png)
-!(images/weather1.png)
+![Alt text](images/weather1.png)
+![Alt text](images/weather2.png)
